@@ -1,2 +1,2 @@
 # StarDomeGroup
-A Group For Out Class
+A Group For Our 2409 Class
